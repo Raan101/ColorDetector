@@ -7,6 +7,8 @@ Required liabraries:
 3. colorthief
 4. os
 
+Required resoursec:
+https://drive.google.com/drive/folders/1Io7oZp7UPixdcaMnG-D2ABGrJhbqd5eK?usp=drive_link
 
 1.Tkinter:
 
